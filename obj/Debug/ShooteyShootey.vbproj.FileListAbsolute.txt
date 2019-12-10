@@ -1,0 +1,11 @@
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\bin\Debug\ShooteyShootey.exe
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\bin\Debug\ShooteyShootey.pdb
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\bin\Debug\ShooteyShootey.xml
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\obj\Debug\ShooteyShootey.vbprojAssemblyReference.cache
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\obj\Debug\ShooteyShootey.Game.resources
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\obj\Debug\ShooteyShootey.Resources.resources
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\obj\Debug\ShooteyShootey.vbproj.GenerateResource.cache
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\obj\Debug\ShooteyShootey.vbproj.CoreCompileInputs.cache
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\obj\Debug\ShooteyShootey.exe
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\obj\Debug\ShooteyShootey.xml
+C:\Users\Stephen\Documents\Coding\College\ShooteyShootey\obj\Debug\ShooteyShootey.pdb
